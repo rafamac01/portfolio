@@ -211,7 +211,7 @@ footer {
 
 /*BOTÃO FECHAR*/
 .fechar-btn {
-    background: #526bbe;
+    background: #642e0a;
     border: none;
     color: white;
     padding: 5px 12px;
@@ -224,6 +224,6 @@ footer {
 }
 
 .fechar-btn:hover {
-    background: #ff1f1f;
+    background: #0c0c0c;
 }
 
