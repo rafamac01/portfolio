@@ -22,4 +22,3 @@ function toggleRedacao(id) {
 
     balao.style.display = balao.style.display === "block" ? "none" : "block";
 }
-
